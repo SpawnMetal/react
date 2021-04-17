@@ -1,0 +1,14 @@
+.card
+{
+	display: flex;
+}
+
+.prop
+{
+	margin-left: 25px;
+}
+
+.marked
+{
+	border: 2px solid crimson;
+}
